@@ -1,4 +1,3 @@
---CURRENTLY ONLY WORKS ON WINDOWS--
 
 1. Unzip 
 
