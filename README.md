@@ -4,7 +4,8 @@ A simple Python planner, ui made with tkinter
 
 Contents: 
 
-Executable Application and Python Code file
+      Executable Application and Python Code file
+
 
 Instructions:
 
