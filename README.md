@@ -1,7 +1,10 @@
+Description:
 
 A simple Python planner, ui made with tkinter
 
-Contents: Executable Application and Python Code file
+Contents: 
+
+Executable Application and Python Code file
 
 Instructions:
 
