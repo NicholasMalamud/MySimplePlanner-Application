@@ -1,8 +1,9 @@
 
 A simple Python planner, ui made with tkinter
 
-Contents: Executable Application and Python Code file
-Note: Data saved in Pickle file
+  Contents: Executable Application and Python Code file
+
+  Note: Data saved in Pickle file
 
 Instructions:
 
