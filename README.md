@@ -1,6 +1,6 @@
 Description:
 
-      A simple Python planner with tkinter UI
+      A simple Python planner with tkinter gui
 
 Contents: 
 
