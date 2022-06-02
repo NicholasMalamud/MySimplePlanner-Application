@@ -4,7 +4,7 @@ Description:
 
 Contents: 
 
-      Executable Application and Python Code file
+      Executable Application (first folder) and Source Code (second folder)
 
 
 Instructions:
